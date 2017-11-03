@@ -2,7 +2,7 @@
 title: RW2409 Blog
 SEOTitle: RW2409的博客 | RW2409 Blog
 header-img: img/config/home-bg.jpg
-email: @gmail.com
+#email: @gmail.com
 description: " | 这里是RW2409(@RW2409)的个人博客，记录生活和成长的点点滴滴。"
 
 keyword: "RW2409, 博客, 个人网站, 互联网。"
@@ -21,10 +21,10 @@ about_path: about
 # SNS settings
 RSS: false
 # weibo_username:
-# zhihu_username: 
+# zhihu_username:
 github_username: RW2409
-# twitter_username:  
-# facebook_username:  
+# twitter_username:
+# facebook_username:
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -41,7 +41,7 @@ anchorjs: no # true                          # if you want to customize anchor. 
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
@@ -59,10 +59,10 @@ input: GFM                            # use Github Flavored Markdown !important
 #disqus_username:
 
 # Hypercomments settings
-#hypercomments_userid: 
+#hypercomments_userid:
 
 # Duoshuo settings
-# duoshuo_username: 
+# duoshuo_username:
 # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -70,7 +70,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
