@@ -1,14 +1,14 @@
 # Site settings
-title: ShenBao Blog
-SEOTitle: 沈宝的博客 | ShenBao Blog
+title: RW2409 Blog
+SEOTitle: RW2409的博客 | RW2409 Blog
 header-img: img/config/home-bg.jpg
-email: shenbaoone@gmail.com
-description: " | 这里是沈宝(@ShenBao)的个人博客，与你一起发现更大的世界。少抱怨，多思考，未来更美好！！！"
+email: @gmail.com
+description: " | 这里是RW2409(@RW2409)的个人博客，记录生活和成长的点点滴滴。"
 
-keyword: "shenbaoone@gmail.com, 沈宝, ShenBao,小宝,XiaoBao，知秋，@沈宝,@小宝,@ShenBao,@XiaoBao,@知秋，沈宝的博客,秋思浪人,QiusiLangren，秋思浪人的博客,ShenBao Blog,知秋的博客， 博客, 个人网站, 互联网, 前端，web developer,JavaScript,Js,ES5,ES6,React,Redux,React Native,SVN,Git,Gulp,WebPack,Fis3."
+keyword: "RW2409, 博客, 个人网站, 互联网。"
 
-url: "https://shenbao.github.io"              # your host, for absolute URL
-createTime: '2015'
+url: "https://rw2409.github.io"              # your host, for absolute URL
+createTime: '2017'
 
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 # 导航栏
@@ -20,9 +20,9 @@ about_path: about
 
 # SNS settings
 RSS: false
-weibo_username:  ShenBaoPro
-zhihu_username:  shenbao
-github_username: ShenBao
+# weibo_username:
+# zhihu_username: 
+github_username: RW2409
 # twitter_username:  
 # facebook_username:  
 # linkedin_username:  firstname-lastname-idxxxx
@@ -56,13 +56,13 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Disqus settings
-disqus_username: ShenBao
+#disqus_username:
 
 # Hypercomments settings
-hypercomments_userid: 91931
+#hypercomments_userid: 
 
 # Duoshuo settings
-# duoshuo_username: shenbao
+# duoshuo_username: 
 # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -74,14 +74,14 @@ hypercomments_userid: 91931
 # ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-# ga_domain: shenbao.github.io
+# ga_track_id: ''            # Format: UA-xxxxxx-xx
+# ga_domain: rw2409.github.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.#添加侧边栏
-sidebar-about-description: "少抱怨，多思考，<br>未来更美好！！" # 简单的描述一下你自己
+sidebar-about-description: "苟日新，日日新，又日新！" # 简单的描述一下你自己
 sidebar-avatar: /img/config/my-head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`你的大头贴，请使用绝对地址
 
 
@@ -101,11 +101,11 @@ service-worker: true
 # friends: [
 #     {
 #         title: "原博客",
-#         href: "https://shenbao.github.io/blog"
+#         href: "https://rw2409.github.io/blog"
 #     },
 #     {
 #         title: "React技术栈",
-#         href: "https://shenbao.github.io/ishehui"
+#         href: "https://rw2409.github.io/ishehui"
 #     }
 # ]
 
@@ -113,22 +113,22 @@ service-worker: true
 extends: [
      {
         title: "Blog",
-        href: "https://shenbao.github.io"
+        href: "https://rw2409.github.io"
     },
     {
         title: "开发笔记",
-        href: "https://shenbao.github.io/shenbao-notes"
+        href: "https://rw2409.github.io/shenbao-notes"
     },
     {
         title: "diary",
-        href: "https://shenbao.github.io/shenbao-diary"
+        href: "https://rw2409.github.io/shenbao-diary"
     },
     {
         title: "API doc",
-        href: "https://shenbao.github.io/blog"
+        href: "https://rw2409.github.io/blog"
     },
     {
         title: "ISHFE",
-        href: "https://shenbao.github.io/ishehui"
+        href: "https://rw2409.github.io/ishehui"
     }
 ]
