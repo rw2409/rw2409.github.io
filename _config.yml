@@ -110,25 +110,25 @@ service-worker: true
 # ]
 
 # Extends
-extends: [
-     {
-        title: "Blog",
-        href: "https://rw2409.github.io"
-    },
-    {
-        title: "开发笔记",
-        href: "https://rw2409.github.io/shenbao-notes"
-    },
-    {
-        title: "diary",
-        href: "https://rw2409.github.io/shenbao-diary"
-    },
-    {
-        title: "API doc",
-        href: "https://rw2409.github.io/blog"
-    },
-    {
-        title: "ISHFE",
-        href: "https://rw2409.github.io/ishehui"
-    }
-]
+# extends: [
+#      {
+#         title: "Blog",
+#         href: "https://rw2409.github.io"
+#     },
+#     {
+#         title: "开发笔记",
+#         href: "https://rw2409.github.io/shenbao-notes"
+#     },
+#     {
+#         title: "diary",
+#         href: "https://rw2409.github.io/shenbao-diary"
+#     },
+#     {
+#         title: "API doc",
+#         href: "https://rw2409.github.io/blog"
+#     },
+#     {
+#         title: "ISHFE",
+#         href: "https://rw2409.github.io/ishehui"
+#     }
+# ]
