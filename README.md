@@ -41,5 +41,5 @@ Created by RW2409 on 2016.03.21
 - 将hypercomments添加至config中
 
 ### 添加日志
-- bundle exec jekyll serve
+- bundle exec jekyll serve --incremental
   - http://localhost:4000/
